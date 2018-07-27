@@ -5,3 +5,4 @@ So far the challenges include:
 - Blobby
 - Tree Fractal
 - Phyllotaxis Algorhythmic Botany
+- Random Walk
