@@ -5,7 +5,7 @@ function setup() {
   createCanvas(1000, 700);
   x = 500;
   y = 350;
-  background(51);
+  background(51); 
 }
 function draw() {
   var random1 = random(0,255);
