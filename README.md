@@ -7,6 +7,7 @@ So far the challenges include:
 - Phyllotaxis Algorhythmic Botany 2018-07-24
 - Blobby 2018-07-25
 - Random Walk 2018-07-26
+- Menger Sponge 2018-07-27
 
 # Instructions
 Most of these challenges will require the installation of the p5.js library and some will also require processing
