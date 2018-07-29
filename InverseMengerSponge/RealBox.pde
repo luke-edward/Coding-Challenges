@@ -23,7 +23,7 @@ class Box {
     }
     return boxes;
   }
-
+  
   void show() {
     pushMatrix();
     translate(pos.x, pos.y, pos.z);
