@@ -9,6 +9,7 @@ So far the challenges include:
 - Random Walk 2018-07-26
 - Menger Sponge 2018-07-27
 - Inverse Menger Sponge 2018-07-28
+- Recursion Circle 2018-07-29
 
 # Instructions
 Most of these challenges will require the installation of the p5.js library and some will also require processing
