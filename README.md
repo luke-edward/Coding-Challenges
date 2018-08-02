@@ -12,6 +12,7 @@ So far the challenges include:
 - Recursion Circle 2018-07-29
 - Animated Sprite Cave Man 2018-07-30
 - Barnsley Fern 2018-07-31
+- Snake Game 2018-08-01
 # Instructions
 Most of these challenges will require the installation of the p5.js library and some will also require processing
 
