@@ -17,4 +17,4 @@ So far the challenges include:
 Most of these challenges will require the installation of the p5.js library and some will also require processing
 
 # Languages
-Most of these programs are written in JavaScript, however some are written in Python, Java and HTML
+Most of these programs are written in JavaScript, however some are written in Python, Java and HTML. Tutorials of how some of these projects work can also be found on my youtube.
